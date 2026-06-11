@@ -10,7 +10,7 @@ import io
 # 1) Cấu hình trang đầu tiên
 nn.set_page_config(
     layout="wide",
-    page_title="Hệ thống Phát hiện Giao dịch Gian lận",
+    page_title="Hệ thống Phát hiện Giao dịch gian lận tại Agribank",
     page_icon="🛡️"
 )
 
